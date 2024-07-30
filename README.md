@@ -7,7 +7,10 @@ Este es un proyecto de e-commerce que presenta una selección de productos para 
 ### Categorías:
 1. **Hombres**
 2. **Mujeres**
+
+   
    Con sus respectivos productos detallados cada uno por página.
+   
 ### Página de contacto
 
    Uso:
